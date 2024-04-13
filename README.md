@@ -1,6 +1,6 @@
 # Analysis-and-Visualization-of-Australian-Trade-Dataset-Using-Tableau
-**#Visualization #tableau #dataanalysis
-**
+**#Visualization #tableau #dataanalysis**
+
 This assignment aims to ensure that students understand a large variety of Australian International Trade datasets and data types. Students will learn data statistical and analytical patterns and use different visualisation techniques to present these patterns and uncover data stories inside the dataset.
 
 
